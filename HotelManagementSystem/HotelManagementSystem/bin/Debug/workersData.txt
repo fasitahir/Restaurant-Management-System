@@ -1,0 +1,12 @@
+aslam,cook,200000,12
+ali,manager,1000000,7
+Noman Ahmad,Cashier,140000,7
+Ali Asghar,Cook,100000,12
+ali Asghar,manager,10000,10
+aslam,cook,200000,12
+ali,manager,1000000,7
+Fasi,Cashier,1000000,6
+Noman Ahmad,Cashier,140000,7
+Ali Asghar,Cook,100000,12
+ali Asghar,manager,10000,10
+Fatima,cook,1000000,8

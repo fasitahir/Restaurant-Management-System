@@ -1,0 +1,4 @@
+biryani,300
+palao,250
+bottle,100
+Noodles,150

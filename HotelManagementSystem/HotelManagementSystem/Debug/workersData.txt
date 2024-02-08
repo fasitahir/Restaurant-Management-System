@@ -1,0 +1,6 @@
+aslam,cook,200000,12
+naeem,cashier,150000,7
+ali,manager,1000000,7
+Fasi,Cashier,1000000,6
+Wali,Cook,200000,8
+Noman Ahmad,Cashier,140000,7

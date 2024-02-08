@@ -1,0 +1,33 @@
+palao,250
+bottle,120
+Pizza,1200
+Juice,90
+Burger,200
+Salad,100
+Soup,150
+lasagnia,1000
+Pizza Burger,999
+Omelete,50
+Biryani,100
+palao,250
+bottle,120
+Pizza,1200
+Juice,90
+Burger,200
+Salad,100
+Soup,150
+lasagnia,1000
+Pizza Burger,999
+Omelete,50
+Biryani,100
+palao,250
+bottle,120
+Pizza,1200
+Juice,90
+Burger,200
+Salad,100
+Soup,150
+lasagnia,1000
+Pizza Burger,999
+Omelete,50
+Zinger Burger,150
